@@ -24,6 +24,9 @@ var myConfig = {
     {
       text:"HERE Technologies",
       count:1,
+    },{
+      text:"3M",
+      count:1,
     },
     {
       text:"CME Group",
