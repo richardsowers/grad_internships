@@ -1,11 +1,8 @@
-# grad_school_acceptances
-where undergrads have been accepted to grad school
-
-Codepen:
-<https://codepen.io/rsowersil/pen/MGgYKw>
+# grad_internships
+where grad students have interned
 
 Zingchart:
 <https://www.zingchart.com/docs/chart-types/wordcloud/>
 
 View via:
-<https://richardsowers.github.io/grad_school_acceptances>
+<https://richardsowers.github.io/grad_internships
